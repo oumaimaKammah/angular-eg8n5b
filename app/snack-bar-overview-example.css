@@ -1,0 +1,28 @@
+/** No CSS for this example */
+.snack-bar-component-style {
+  position: relative;
+  float: right;
+  padding: 3%;
+}
+
+.position-snackBar {
+  height: 100px;
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  width: 20%;
+}
+.mat-snack-bar-container {
+  width: 30%;
+  font-weight: bold;
+}
+.mat-simple-snackbar-action {
+  color: #8b0000;
+  font-weight: bold;
+}
+.color-snackBar {
+  border-left: 5px solid rgb(219, 29, 29);
+  background-color: rgb(252, 191, 189);
+  color: #8b0000;
+  opacity: 87%;
+}
